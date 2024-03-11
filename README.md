@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Night Wind Browser<br>🌱 I’m currently learning: Nothing but sometimes Javascript<br>💬 Ask me about: Night Wind Browser, Linux<br>⚡ Fun fact: lol
+🔭 I’m currently working on: Discord bots, Some websites for myself<br>🌱 I’m currently learning: Sometimes JS Sometimes PY<br>💬 Ask me about: Night Wind Browser, Linux<br>⚡ Fun fact: lol
 
 
 ## 🌐 Socials:
